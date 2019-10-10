@@ -1,0 +1,3 @@
+C:/Users/ANAS/CLionProjects/compilation/cmake-build-debug/CMakeFiles/compilation.dir
+C:/Users/ANAS/CLionProjects/compilation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ANAS/CLionProjects/compilation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
